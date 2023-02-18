@@ -1,14 +1,14 @@
 ## FinApi - Financeia
 
-## Para iniciar apenas instalar as dependencias pelo Yarn
+- Para iniciar apenas instalar as dependencias pelo Yarn
 
 ` yarn install `
 
-# Para instalar o Yarn
+- Para instalar o Yarn
 
 ` npm install --global yarn `
 
-# Para rodar o sistema (script pelo yarn)
+- Para rodar o sistema (script pelo yarn)
 
 ` yarn dev `
 
