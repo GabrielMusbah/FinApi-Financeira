@@ -4,11 +4,11 @@
 
 ` yarn install `
 
-## Para instalar o Yarn
+# Para instalar o Yarn
 
 ` npm install --global yarn `
 
-## Para rodar o sistema (script pelo yarn)
+# Para rodar o sistema (script pelo yarn)
 
 ` yarn dev `
 
