@@ -1,5 +1,17 @@
 ## FinApi - Financeia
 
+## Para iniciar apenas instalar as dependencias pelo Yarn
+
+` yarn install `
+
+## Para instalar o Yarn
+
+` npm install --global yarn `
+
+## Para rodar o sistema (script pelo yarn)
+
+` yarn dev `
+
 ## Requisitos
 
 - [x] Deve ser possível criar umma conta
@@ -20,11 +32,3 @@
 - [x] Não deve ser possível fazer saque em uma conta não existente
 - [x] Não deve ser possível fazer saque quando o saldo for insuficiente
 - [x] Não deve ser possível excluir uma conta não existente
-
-## Para iniciar apenas instalar as dependencias pelo Yarn
-
-` yarn install `
-
-## Para instalar o Yarn
-
-` npm install --global yarn `
